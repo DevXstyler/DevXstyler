@@ -1,6 +1,5 @@
 # 👋 Welcome to my GitHub Profile!
 
-![Discord](https://img.shields.io/discord/1243582656674527272?label=Discord&logo=discord&color=7289da)
 
 ## I’m **@Xstyler-Xgamer18**
 ---
