@@ -9,7 +9,7 @@
 - 🖥️ Passionate about **software & game development**
 - 🧠 Malware research – for **education** & **sandboxed** testing only
 - 🔐 Enthusiastic about **Gray/White Hat hacking**
-- 🧰 C++, Python, Assembly, and low-level tinkering
+- 🧰 C++, Python, Assembly, and Lua developer
 
 <details>
 <summary>💡 More Interests</summary>
