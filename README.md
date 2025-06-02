@@ -43,12 +43,3 @@
 - 💻 GitHub Projects: Always evolving – check back regularly!
 
 ---
-
-## 🧪 Code Example
-
-```cpp:title=example.cpp
-#include <iostream>
-int main() {
-    std::cout << "Stay ethical & keep learning!" << std::endl;
-    return 0;
-}
