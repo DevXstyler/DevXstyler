@@ -39,7 +39,7 @@
 > [!TIP]
 > You can reach out for collaborations, questions or suggestions!
 
-- 💬 Discord Server: [Join here](https://discord.gg/ndRKKpCe3k)
+- 💬 Discord Server: [Join here](https://discord.gg/75W6mXRh5f)
 - 💻 GitHub Projects: Always evolving – check back regularly!
 
 ---
