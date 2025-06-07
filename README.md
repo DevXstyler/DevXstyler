@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub Profile!
 
 
-## I’m **@DevXstyler**
+![DevXstyler](DevXstyler.png)
 ---
 
 ## ⚡ About Me
