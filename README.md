@@ -23,9 +23,9 @@
 
 ---
 
-![DevXstyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevXsstyler&show_icons=true&theme=dark)
+![DevXstyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevXstyler&show_icons=true&theme=dark)
 
-[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevXsstyler&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevXstyler&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
