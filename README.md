@@ -35,8 +35,7 @@
 |---------------------|---------------------|
 | C++ / Windows API    | 🔥 Advanced          |
 | Python               | ✅ Intermediate      |
-| Ethical Hacking      | 🧪 Learning Phase    |
-| Game Design          | 🎮 Experimental      |
+| Ethical Hacking      | 🧪 Learning          |
 
 ---
 
