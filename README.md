@@ -14,10 +14,10 @@
 <details>
 <summary>💡 More Interests</summary>
 
-- Reverse Engineering  
-- System Internals  
-- Building custom tools  
-- Creating experimental projects
+- 🔍 Reverse Engineering  
+- 🧬 System Internals  
+- 🛠️ Building custom tools  
+- 🧪 Creating experimental projects
 
 </details>
 
@@ -35,6 +35,8 @@
 |---------------------|---------------------|
 | C++ / Windows API    | 🔥 Advanced          |
 | Python               | ✅ Intermediate      |
+| Lua                  | 👍 Good              |
+| Assembly             | 🌱 Beginner          |
 | Ethical Hacking      | 🧪 Learning          |
 
 ---
