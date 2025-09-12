@@ -7,7 +7,7 @@
 ## ⚡ About Me
 
 - 🖥️ Passionate about **software & game development**
-- 🧠 Malware research – for **education** & **sandboxed** testing only
+- 🧠 Malware research
 - 🔐 Enthusiastic about **Gray/White Hat hacking**
 - 🧰 C++, Python, Assembly, and Lua developer
 
@@ -33,11 +33,10 @@
 
 | Domain              | Experience Level    |
 |---------------------|---------------------|
-| C++ / Windows API    | 🔥 Advanced          |
+| C++                  | 🔥 Advanced          |
 | Python               | ✅ Intermediate      |
-| Lua                  | 👍 Good              |
+| Lua                  | 😑 Meh              |
 | Assembly             | 🌱 Beginner          |
-| Ethical Hacking      | 🧪 Learning          |
 
 ---
 
@@ -47,6 +46,10 @@
 > You can reach out for collaborations, questions or suggestions!
 
 - 💬 Discord Server: [Join here](https://discord.gg/75W6mXRh5f)
-- 💻 GitHub Projects: Always evolving – check back regularly!
+- 📨 Email me: Coming soon :D
+- 💻 GitHub Projects: Always Updating :D (maybe)
 
 ---
+
+## 📹 Socials
+- YouTube: [Click Here](https://www.youtube.com/@Dev-Xstyler)
