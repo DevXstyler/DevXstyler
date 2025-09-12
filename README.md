@@ -53,3 +53,8 @@
 
 ## 📹 Socials
 - YouTube: [Click Here](https://www.youtube.com/@Dev-Xstyler)
+
+---
+
+#### A lil secret:
+I write most of my README's with ChatGPT because i'm lazy. Don't judge me okay?
