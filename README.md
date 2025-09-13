@@ -23,9 +23,9 @@
 
 ---
 
-![DevXstyler's Stats](https://github-readme-stats.vercel.app/api?username=DvXstyler&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![DevXstyler's Stats](https://github-readme-stats.vercel.app/api?username=DevXstyler&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
-![DevXstyler's Top Languages](https://github-readme-stats.vercel.app/api/toplangs/?username=DevXstyler&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![DevXstyler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevXstyler&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
