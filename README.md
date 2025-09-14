@@ -1,7 +1,5 @@
 # 👋 Welcome to my GitHub Profile!
 
-
-![DevXstyler](DevXstyler.png)
 ---
 
 ## ⚡ About Me
