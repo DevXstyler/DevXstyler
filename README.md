@@ -1,7 +1,4 @@
 # 👋 Welcome to my GitHub Profile!
-
----
-
 ## ⚡ About Me
 
 - 🖥️ Passionate about **software & game development**
