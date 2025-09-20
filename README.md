@@ -54,5 +54,13 @@ My Github README file :D
 
 ---
 
-#### A lil secret:
-I write most of my README's with ChatGPT because i'm lazy. Don't judge me okay?
+<details>
+  <summary>Info about AI</summary>
+  I am often using AI because it **Helps**, I use it as a tool and not as a solution. Also often there are just no good tutorials on YouTube, good documentations or anything else. So I use ChatGPT's "Search" feature to get solutions on things I have no Idea how to implement.
+This, again does not mean I am a vibe coder or have no real skills. I am still actively coding by myself and only rarely using ChatGPT for the hardest things.
+
+
+I also use AI for my README's to just get them quickly done. When completely finishing a project though (without issues) and when I have enough time, I update them myself but I still "design" them with MD (markdown) features and Emojis to make them "more enjoyable" to read.
+
+Also thank you for checking out my Account :)
+</details>
