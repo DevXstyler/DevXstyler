@@ -56,7 +56,7 @@ My Github README file :D
 
 <details>
   <summary>Info about AI</summary>
-  I am often using AI because it **Helps**, I use it as a tool and not as a solution. Also often there are just no good tutorials on YouTube, good documentations or anything else. So I use ChatGPT's "Search" feature to get solutions on things I have no Idea how to implement.
+  I am often using AI because it *Helps*, I use it as a tool and not as a solution. Also often there are just no good tutorials on YouTube, good documentations or anything else. So I use ChatGPT's "Search" feature to get solutions on things I have no Idea how to implement.
 This, again does not mean I am a vibe coder or have no real skills. I am still actively coding by myself and only rarely using ChatGPT for the hardest things.
 
 
