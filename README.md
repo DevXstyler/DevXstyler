@@ -2,6 +2,8 @@
 
 My Github README file :D
 
+I haven't been as active as I would like to be, but I'm trying to change that XD
+
 ## ⚡ About Me
 
 - 🖥️ Passionate about **software & game development**
