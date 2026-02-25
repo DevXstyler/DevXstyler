@@ -6,10 +6,10 @@ I haven't been as active as I would like to be, but I'm trying to change that XD
 
 ## About me:
 
-- 🖥️ I love game and software dev
+- 🖥️ I love game and software development
 - 🧠 Checking out and creating (harmless) malware is probably whatI enjoy the most :)
-- 🔐 Tried some hacking stuff but I'd rather stick to the GDI Malware stuff
 - :heart: Favorite language is definetly C++
+- in general I am up for *anything* as long as I get to use a pc XD
 
 I actually hate using libraries and 3rd party libraries and stuff for everything because of the fear it will someday just not be updated anymore or having to watch out for some licensing stuff.
 I just wanna code and maybe make a few bucks with Games and all..
