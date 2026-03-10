@@ -41,13 +41,13 @@ I am way too stupid for that lol.
 > [!TIP]
 > You can reach out for collaborations, questions or suggestions!
 
-- 💬 Discord Server: [Join here](https://discord.gg/75W6mXRh5f)
-- 📨 Email me: Coming soon :D
-- 💻 GitHub Projects: Always Updating :D (maybe)
+- Discord Server: [Join here](https://discord.gg/75W6mXRh5f)
+- Email me: Coming soon :D
+- GitHub Projects: Always Updating :D (maybe)
 
 ---
 
-## 📹 Socials
+## Socials
 - YouTube: [Currently not available](https://www.youtube.com/@Dev-Xstyler)
 
 ---
