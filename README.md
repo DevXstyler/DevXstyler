@@ -18,7 +18,7 @@ But that still doesn't change I am trying to do as much from scratch as I can XD
 I am way too stupid for that lol.
 
 ## My stats:
-(not available, fix later)
+
 ![DevXstyler's Stats](https://github-readme-stats.vercel.app/api?username=DevXstyler&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
 ![DevXstyler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevXstyler&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
