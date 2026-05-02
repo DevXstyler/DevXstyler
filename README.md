@@ -23,6 +23,19 @@ I am way too stupid for that lol.
 
 ![DevXstyler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevXstyler&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+
+## ☕ Support My Work :D
+
+If you find my projects useful, or just want to support me, consider sending just a tiny amount of Monero :D
+
+It'll help me A LOT!
+
+**XMR:** `84dgq7HeDRVR7zGt9jUmr58vjjfHrYh5wUB5naYUwLBJVTCxeEXJtyt96U7MKZa41v9B4jD63MDnMdhhG23UHjawHyN2BzX`
+
+![Monero QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=monero:84dgq7HeDRVR7zGt9jUmr58vjjfHrYh5wUB5naYUwLBJVTCxeEXJtyt96U7MKZa41v9B4jD63MDnMdhhG23UHjawHyN2BzX)
+
+> Privacy-first! No paypal/banks and no KYC. Thanks
+
 ---
 
 ## Skill Overview
