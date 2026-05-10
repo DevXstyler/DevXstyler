@@ -7,7 +7,7 @@ I haven't been as active as I would like to be, but I'm trying to change that XD
 ## About me:
 
 - 🖥️ I love game and software development
-- 🧠 Checking out and creating (harmless) malware is probably whatI enjoy the most :)
+- 🧠 Checking out and creating (harmless) malware is probably what I enjoy the most :)
 - :heart: Favorite language is definetly C++
 - in general I am up for *anything* as long as I get to use a pc XD
 
